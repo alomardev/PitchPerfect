@@ -1,2 +1,2 @@
 # PitchPerfect
-First Project
+First Project in Udacity nanodegree course project.
